@@ -18,6 +18,5 @@ Presentations are written using HTML or Markdown but there's also an online edit
 
 ## License
 
-MIT licensed
-
 Copyright (C) 2016-2017 Mike Jang
+(note: I hope to use a more permissive license)
