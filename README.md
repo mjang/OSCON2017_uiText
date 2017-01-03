@@ -18,5 +18,10 @@ Presentations are written using HTML or Markdown but there's also an online edit
 
 ## License
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" />
+</a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">UI Text: Simplicity is Difficult</span>
+ by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Mike Jang</span> 
+ is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 Copyright (C) 2016-2017 Mike Jang
-(note: I hope to use a more permissive license)
