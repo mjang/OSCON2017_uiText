@@ -1,19 +1,28 @@
 # Draft of Mike Jang's talk at OSCON, [scheduled May 11, 2017](http://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/57171).
 
 
-## Table of contents
-- [Test link 1](#test-link-1)
-  - [Markup](#markup)
- 
+## Talk Description, as published on the [OSCON 2017 Website](https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/57171)
+
+Web applications frequently have two audiences: end users (consumers) and administrators. End users don’t want to bother
+with documentation, especially for “simple” tasks such as creating a new account. And while administrators may be more
+understanding, they also don’t want to deal with documentation for everyday tasks. (They don’t want to refer to documentation
+just to configure a new property, for example.) And they certainly don’t want to decipher a “self-documenting” developer
+Java class. Meanwhile, many UI developers don’t have the skills needed to create awesome UI text.
+
+Mike Jang explains that to keep your users happy, you need excellent UI text, also known as microcopy. Microcopy can save
+time—and make the difference in selling an application. Mike shares the lessons he’s learned creating microcopy for a
+new administrative and end-user web interface and discusses the stakeholders that he had to navigate in order to implement a microcopy style guide for a suite of web applications.
+
+
 #### Credits
+
+I'd like to thank the following people, who've provided inspiration, and in most of these cases, permission to use
+some of their work:
+
 - [reveal.js](https://github.com/hakimel/reveal.js): Git Hub Repo for "The HTML Presentation Framework"
-- [Examples](https://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
-- [Browser Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
-- [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
+- [Steve Tout](https://github.com/hakimel/reveal.js): Git Hub Repo for "The HTML Presentation Framework"
 
-## Online Editor
 
-Presentations are written using HTML or Markdown but there's also an online editor for those of you who prefer a graphical interface. Give it a try at [https://slides.com](https://slides.com?ref=github).
 
 
 ## License
