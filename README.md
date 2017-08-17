@@ -23,6 +23,10 @@ some of their work:
 - [Steve Tout](https://github.com/hakimel/reveal.js): Git Hub Repo for "The HTML Presentation Framework"
 
 
+Link to full talk: 
+
+Slides: http://slides.com/mike-1/osconjang
+YouTube: https://youtu.be/qc3v5D1HHac
 
 
 ## License
